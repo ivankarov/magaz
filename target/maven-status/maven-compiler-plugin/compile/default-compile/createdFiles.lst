@@ -1,0 +1,4 @@
+ru\ivan\proj\config\SpringConfig.class
+ru\ivan\proj\controllers\FirstController.class
+ru\ivan\proj\controllers\SecondController.class
+ru\ivan\proj\config\MySpringMvcDispatcherServlerInitilazer.class
